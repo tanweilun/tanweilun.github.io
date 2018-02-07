@@ -7,12 +7,15 @@ categories: [ one, two, three ]
 
 ## Apply your markdown knowledge!
 
-#Testing with Header 1
+# Testing with Header 1
 
-##Testing with HEader 2 
+
+## Testing with Header 2 
 
 **bold**
+
 *italics*
+
 __underscore__
 
 1. Actual numbers don't matter, just that it's a number
