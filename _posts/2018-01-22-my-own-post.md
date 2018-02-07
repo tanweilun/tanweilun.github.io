@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Writing My Own Post"
+title:  "Updating My Own Post"
 date:   2018-01-22
-toc: TRUE
 categories: [ one, two, three ]
 ---
 
