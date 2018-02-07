@@ -7,4 +7,23 @@ categories: [ one, two, three ]
 
 ## Apply your markdown knowledge!
 
-I'm a brand new post and can be about anything you want. Try playing around with lists, links, images, and etc., and reference the [Markdown Cheatsheet](https://github.com/mnyrop/nycdh-jekyll/blob/master/docs/markdown-cheatsheet.md) whenever you get stuck.
+#Testing with Header 1
+
+##Testing with HEader 2 
+
+**bold**
+*italics*
+__underscore__
+
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+
+Creating a new [link](http://bbc.co.uk)
+
+![Picture 1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
