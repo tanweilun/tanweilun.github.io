@@ -14,7 +14,7 @@ github_username:  tanweilun
 
 # Build settings
 markdown:         kramdown
-remote_theme:     broccolini/athena
+remote_theme:     TaylanTatli/Moon
 permalink:        pretty
 exclude:          [Gemfile*, vendor, README.md, docs]
 plugins:          [jekyll-feed]
