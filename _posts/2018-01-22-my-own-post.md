@@ -7,6 +7,10 @@ categories: [ one, two, three ]
 
 ## Apply your markdown knowledge!
 
+{% for category in page.categories %}
+ {{ category }}
+{% endfor %}
+
 # Testing with Header 1
 
 
@@ -34,3 +38,4 @@ Creating a new [link](http://bbc.co.uk)
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
